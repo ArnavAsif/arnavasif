@@ -1,78 +1,166 @@
-<!--- title --->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm MD. Asif</h1></summary>
-    <!--- typo --->
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=32AFE6&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;Full+Stack+JS+Enthusiast;" alt="Typing SVG" /></a>
-  </ul>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:06b6d4,100:14b8a6&text=MD.%20ASIF&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Shopify%20Developer%20%7C%20Frontend%20Engineer%20%7C%20E-commerce%20Specialist&descAlignY=60"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Shopify+Developer;Custom+Theme+Developer;Liquid+Expert;Building+Premium+E-commerce+Experiences;Performance+Focused+Frontend+Engineer" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00D4FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+
 </div>
-
-## About Me
-I am passionate about building **real-world, scalable, and user-friendly web applications**.  
-Currently, I am exploring **Next.js, TypeScript, PostgreSQL, and Docker** to expand my skillset.  
-
-## Current Activities
-- Exploring **Next.js** and creating modern SSR/SSG applications  
-- Working on an **ecommerce website** project  
-- Developing a **Task Manager** application  
-
-
-## Tech Stack
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Authentication & State Management
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
-### Let's Connect!  
-<p align="left">
-  <a href="https://www.linkedin.com/in/arnav-asif-a74894259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/arnav.asif.7" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="http://asif-portfolio-p2.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00A6F4&width=435&lines=Thanks+for+visiting" alt="Typing SVG" /></a>
+# 🚀 Shopify Developer
 
-<!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
-<!--
-**ashikurahman1/ashikurahman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building premium Shopify storefronts that combine performance, scalability, and exceptional user experience.
 
-Here are some ideas to get you started:
+### Core Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Shopify Theme Development
+
+✅ Shopify Liquid
+
+✅ Shopify 2.0 Architecture
+
+✅ Responsive Storefront Design
+
+✅ Performance Optimization
+
+✅ Custom Sections & Blocks
+
+✅ Premium UI/UX
+
+✅ JavaScript Interactions
+
+---
+
+# 🛍 Shopify Partner Journey
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Shopify-Developer-95BF47?style=for-the-badge&logo=shopify&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Theme-Developer-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Liquid-Expert-95BF47?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ecommerce-Specialist-0EA5E9?style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⚔ Tech Arsenal
+
+### Shopify
+
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge\&logo=shopify\&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-000000?style=for-the-badge)
+![Shopify 2.0](https://img.shields.io/badge/Shopify_2.0-95BF47?style=for-the-badge)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+
+---
+
+# 🏆 Featured Shopify Projects
+
+| Project                 | Description                            |
+| ----------------------- | -------------------------------------- |
+| ⚔ Armory X              | Futuristic Shopify Weapon Store        |
+| 🌌 Cyber Nexus          | Gaming Inspired Shopify Experience     |
+| 💎 Luxury Jewelry Store | Premium Shopify Jewelry Theme          |
+| 🛥 Marine Product Store | Responsive Shopify Commerce Experience |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Current:
+  - Shopify Theme Development
+  - Shopify 2.0 Sections
+  - Advanced Liquid Components
+  - Store Optimization
+
+Learning:
+  - Next.js
+  - TypeScript
+  - Shopify Hydrogen
+  - Headless Commerce
+
+Goal:
+  - Top Rated Shopify Developer
+```
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/arnav-asif-a74894259/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="http://asif-portfolio-p2.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ Building High-Converting Shopify Experiences
+
+*"Every pixel matters. Every interaction matters. Every conversion matters."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:06b6d4,100:14b8a6"/>
